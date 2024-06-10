@@ -1,1 +1,45 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+.btnStyle {
+  display: flex;
+  justify-content: center;
+  height: 10vh;
+}
+
+button {
+  height: 50px;
+  width: 100px;
+}
+
+.card {
+  width: 450px;
+  height: 650px;
+  border-radius: 3%;
+}
+
+i {
+  font-size: 100px;
+}
+
+h1 {
+  font-size: 120px;
+}
+
+.heart {
+  color: red;
+}
+.diamond {
+  color: red;
+}
+.spade {
+  color: black;
+}
+.club {
+  color: black;
+}
