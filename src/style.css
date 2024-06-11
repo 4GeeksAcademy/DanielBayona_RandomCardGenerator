@@ -43,3 +43,7 @@ h1 {
 .club {
   color: black;
 }
+
+.reverse {
+  transform: rotate(180deg);
+}
